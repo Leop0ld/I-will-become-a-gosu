@@ -17,6 +17,6 @@ import (
 	"math"
 )
 
-func main() {
+func main4() {
 	fmt.Println("Happy ", math.Pi, "Day!")
 }

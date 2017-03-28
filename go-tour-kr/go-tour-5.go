@@ -12,7 +12,7 @@ import (
 // import "main"
 
 
-func main() {
+func main5() {
 	fmt.Printf("Now you have %g problems.",
 		math.Nextafter(2, 3))
 }

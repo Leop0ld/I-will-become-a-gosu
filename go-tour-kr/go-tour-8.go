@@ -6,10 +6,10 @@ package main
 
 import "fmt"
 
-func add(x, y int) int {
+func add2(x, y int) int {
 	return x + y
 }
 
-func main() {
-	fmt.Println(add(42, 13))
+func main8() {
+	fmt.Println(add2(42, 13))
 }
