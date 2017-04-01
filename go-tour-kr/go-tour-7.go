@@ -14,6 +14,6 @@ func add(x int, y int) int {
 	return x + y
 }
 
-func main7() {
+func main() {
 	fmt.Println(add(152, 124))
 }

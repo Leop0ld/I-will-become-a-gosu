@@ -8,6 +8,6 @@ func split(sum int) (x, y int) {
 	return
 }
 
-func main10() {
+func main() {
 	fmt.Println(split(17))
 }

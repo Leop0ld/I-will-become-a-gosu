@@ -13,7 +13,7 @@ import (
 	"math"
 )
 
-func main6() {
+func main() {
 	fmt.Println(math.Pi)
 	// ERROR: fmt.Println(math.pi)
 }
